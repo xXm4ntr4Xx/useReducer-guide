@@ -1,4 +1,4 @@
-# usereducer-guide
+# useReducer-guide
 
  1. We import use reducer
 
