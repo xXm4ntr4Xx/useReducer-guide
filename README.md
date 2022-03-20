@@ -26,3 +26,11 @@
 5. Now we can call an anonymous function containing the dispatch with the type action selected
 
 <img width="713" alt="Screenshot 2022-03-10 at 22 27 32" src="https://user-images.githubusercontent.com/74420607/157765670-16c94686-6d7c-4bb7-8f04-05afda2b93a0.png">
+
+Extra example
+
+<img width="415" alt="Screenshot 2022-03-20 at 22 29 54" src="https://user-images.githubusercontent.com/74420607/159188778-67a51ff7-938d-45d8-ae08-c2f7e91aca4b.png">
+
+
+
+
