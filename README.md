@@ -3,7 +3,7 @@
  1. We import use reducer
 
 
- 2. We create the useReducer state inside the App function
+ 2. Create the useReducer state inside the App function
   -state is refering to the count:0 object
   -dispatch is the kind of action we want to use to update the state
   
@@ -13,17 +13,17 @@
 
 
     
- 3. We crate an action variable  so we know how the action type is going to change the state
+ 3. Create an action variable  so we know how the action type is going to change the state
   
 <img width="437" alt="Screenshot 2022-03-10 at 22 17 22" src="https://user-images.githubusercontent.com/74420607/157764254-ef684336-7da7-4bb0-b8ce-65bbaef0404a.png">
 
 
-4. We create the function reducer that will contain the state (' the count ')as first parameter, and the action as second parameter,followed by a switch with an action.type.
+4. Create the function reducer that will contain the state (' the count ')as first parameter, and the action as second parameter,followed by a switch with an action.type.
   every case in the switch will refer to different action that will update the state differently
 
 <img width="502" alt="Screenshot 2022-03-10 at 22 19 07" src="https://user-images.githubusercontent.com/74420607/157764387-f6b6111a-3705-4919-850b-f3bac470b88d.png">
 
-5. Now we can call an anonymous function containing the dispatch with the type action selected
+5. Call an anonymous function containing the dispatch with the type action selected
 
 <img width="713" alt="Screenshot 2022-03-10 at 22 27 32" src="https://user-images.githubusercontent.com/74420607/157765670-16c94686-6d7c-4bb7-8f04-05afda2b93a0.png">
 
