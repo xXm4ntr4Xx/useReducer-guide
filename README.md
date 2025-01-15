@@ -1,6 +1,6 @@
 # useReducer-guide
 
- 1. We import use reducer
+ 1. We import the " useReducer" function
 
 
  2. Create the useReducer state inside the App function
